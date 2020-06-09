@@ -1,1 +1,12 @@
-body{background:blue;}
+body{
+    background:blue;
+    display: table-cell;
+    text-align: center
+    }
+div {
+    background: white;
+    width: 70%;
+    display: inline-block;
+    text-align: left;
+    margin-top: 10px;
+}

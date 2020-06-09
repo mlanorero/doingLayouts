@@ -1,18 +1,4 @@
 /* your code here */
-.wrapper {
-    display: flex;
-}
-header {
-    margin: 10px;
-}
-nav {
-    width: 25%;
-    margin: 10px;
-    }
-section{
-    width: 75%;
-    margin: 10px;
-}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
